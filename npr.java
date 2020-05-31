@@ -24,4 +24,3 @@ class npr
      return f;
  }
 }
-[20:13, 5/31/2020] Hanan: 
